@@ -213,3 +213,32 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+
+
+#################
+OWN PREFERENCES
+#################
+
+
+#UNITY
+*.unityproj
+*.csproj
+*.mat
+*.unity
+*.js
+*.prefab
+*.cs
+*.tga
+*.txt
+Library/*
+ProjectSettings/*
+ShaderTestZone_Data/*
+Assets/*
+!Assets/Script/*
+!Assets/Material/*
+!Assets/Shader/*
+*.exe
+*.sln
+*.userprefs
+
+
